@@ -38,7 +38,7 @@ O contrato "SimpleVoting" é um contrato Solidity que permite a criação de enq
 
 * "Testando o voto": Testes relacionados à funcionalidade de votação. 
 
-* "Validando Ganhadores": Testes relacionados à validação dos resultados das enquetes. 
+* "Validando Ganhador": Testes relacionados à validação dos resultados das enquetes. 
 
 **Função deploy**
 
